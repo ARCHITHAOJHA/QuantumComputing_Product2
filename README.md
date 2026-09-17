@@ -18,8 +18,15 @@ Compare quantum and classical query/gate complexity.
 Installation
 Use Python 3.10+.
 
+
+
+
+
+
 python -m venv .venv
 Windows:
+
+
 
 .venv\Scripts\activate
 Linux/macOS:
@@ -33,6 +40,13 @@ Run:
 streamlit run app.py
 Then open the local Streamlit address shown in the terminal.
 
+
+
+
+
+
+
+
 Project Structure
 Quantum_Algorithm_Demonstrator/
 ├── app.py
@@ -44,5 +58,13 @@ Quantum_Algorithm_Demonstrator/
 │   └── qft.py
 ├── requirements.txt
 └── README.md
+
+
+
+
+
+
+
+
 Notes
 This is an educational demonstrator. Complexity figures describe standard query/gate-complexity models and should not be interpreted as direct wall-clock speedups on a classical simulator.
