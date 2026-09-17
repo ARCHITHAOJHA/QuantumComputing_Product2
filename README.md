@@ -48,15 +48,25 @@ Then open the local Streamlit address shown in the terminal.
 
 
 Project Structure
+
 Quantum_Algorithm_Demonstrator/
+
 ├── app.py
+
 ├── algorithms/
+
 │   ├── deutsch_jozsa.py
+
 │   ├── bernstein_vazirani.py
+
 │   ├── simon.py
+
 │   ├── grover.py
+
 │   └── qft.py
+
 ├── requirements.txt
+
 └── README.md
 
 
