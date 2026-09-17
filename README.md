@@ -3,18 +3,35 @@
 An interactive Qiskit + Streamlit toolkit for demonstrating:
 
 Deutsch-Jozsa
+
 Bernstein-Vazirani
+
 Simon's Algorithm
+
 Grover's Search
+
 Quantum Fourier Transform (QFT)
+
+
+
+
 Features
 Select an algorithm from the sidebar.
+
 Configure algorithm inputs.
+
 Display the Qiskit circuit.
+
 Run the circuit on a local Aer simulator.
+
 Visualize measurement counts.
+
 Show the detected/result state.
+
 Compare quantum and classical query/gate complexity.
+
+
+
 Installation
 Use Python 3.10+.
 
